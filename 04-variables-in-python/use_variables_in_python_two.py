@@ -1,0 +1,12 @@
+x=3
+print(x)
+y=4
+print(y)
+z=x+y
+print(z)
+z=z+1
+print(z)
+x=y
+print(x)
+y=5
+print(y)
